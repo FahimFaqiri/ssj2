@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.hva.backend.Fahim.rest.TestingWebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.641 s - in nl.hva.backend.Fahim.rest.TestingWebApplicationTests
